@@ -10,6 +10,7 @@
 - [Web & Browser](#web--browser)
 - [Developer Tools](#developer-tools)
 - [Communication](#communication)
+- [Marketing](#marketing)
 - [AI & ML](#ai--ml)
 - [Cloud & Infrastructure](#cloud--infrastructure)
 - [Productivity](#productivity)
@@ -46,6 +47,10 @@
 ## Communication
 
 - [Slack](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) - Channel management and messaging capabilities for Slack.
+
+## Marketing
+
+- [NotFair](https://notfair.co/api/mcp/google_ads) - Hosted Google Ads MCP server. Diagnose campaigns, recommend bid/budget/keyword changes, and execute approved updates via the Google Ads API with a human-approval gate.
 
 ## AI & ML
 
